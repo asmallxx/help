@@ -1,41 +1,19 @@
 <template>
-  <div class="course-list">
-    <button @click="switchPage">switchPage</button>
-    <div>count:{{count}}</div>
-    <button @click="addCount">加1</button>
-  </div>
+  <div class="course-list"></div>
 </template>
 
 <script>
 import store from "@/store/index";
 import { mapState } from "vuex";
-// import question from "@/views/question";
 
 export default {
   data() {
-    return {
-      //   count: this.$store.state.count
-    };
+    return {};
   },
-  computed: {
-    // ...mapState(["count", "age", "sex"])
-    // ...mapState({
-    //   count: "count",
-    //   age: "age",
-    //   sex: "sex"
-    // })
-
-    count: () => store.state.count
-  },
+  computed: {},
   methods: {
     switchPage() {
       this.$emit("component", "question");
-    },
-    addCount() {
-      console.log(1);
-      this.$store.commit({
-        type: `addCount`
-      });
     }
   },
   created() {},

@@ -1,31 +1,19 @@
 <template>
-  <div class="question">
-    <div>question count:{{count}}</div>
-    <button @click="subtractCount">减1</button>
-    <div @click="backPage">返回上一层 ></div>
-  </div>
+  <div class="question"></div>
 </template>
 <script>
 import store from "@/store/index";
 
 export default {
   data() {
-    return {
-      //   count: store.state.count
-    };
+    return {};
   },
-  computed: {
-    count: () => store.state.count
-  },
+  computed: {},
   methods: {
     backPage() {
       this.$emit("component", "courseList");
     },
-    subtractCount() {
-      this.$store.commit({
-        type: `subtractCount`
-      });
-    }
+    subtractCount() {}
   }
 };
 </script>
