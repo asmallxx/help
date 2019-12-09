@@ -1,0 +1,159 @@
+{
+    "F_responseMsg": "成功",
+    "F_responseNo": 10000,
+    "F_data": [{
+            "F_item_id": 134515526242,
+            "F_type": 1,
+            "F_video_id": 1453526252,
+            "F_video_uri": "http://ebag-qn.strongwind.cn/ebag/support/2341253451.mp4",
+            "F_video_name": "上课前的准备上课前的准备上课前的准备上课前的准备上课前的准备上课前的准备上课前的准备上课前的准备上课前的准备上课前的准备上课前的准备上课前的准备上课前的准备上课前的准备上课前的准备上课前的准备上课前的准备上课前的准备",
+            "F_video_time": 2345343151,
+            "F_video_size": 2345343
+        },
+        {
+            "F_item_id": 124515536245,
+            "F_type": 1,
+            "F_video_id": 1253524232,
+            "F_video_uri": "http://ebag-qn.strongwind.cn/ebag/support/2341253321.mp4",
+            "F_video_name": "上课时的准备",
+            "F_video_time": 2345342351,
+            "F_video_size": 2325343
+        }, {
+            "F_item_id": 134515526242,
+            "F_type": 1,
+            "F_video_id": 1453526252,
+            "F_video_uri": "http://ebag-qn.strongwind.cn/ebag/support/2341253451.mp4",
+            "F_video_name": "上课前的准备",
+            "F_video_time": 2345343151,
+            "F_video_size": 2345343
+        },
+        {
+            "F_item_id": 124515536245,
+            "F_type": 1,
+            "F_video_id": 1253524232,
+            "F_video_uri": "http://ebag-qn.strongwind.cn/ebag/support/2341253321.mp4",
+            "F_video_name": "上课时的准备",
+            "F_video_time": 2345342351,
+            "F_video_size": 2325343
+        }, {
+            "F_item_id": 134515526242,
+            "F_type": 1,
+            "F_video_id": 1453526252,
+            "F_video_uri": "http://ebag-qn.strongwind.cn/ebag/support/2341253451.mp4",
+            "F_video_name": "上课前的准备",
+            "F_video_time": 2345343151,
+            "F_video_size": 2345343
+        },
+        {
+            "F_item_id": 124515536245,
+            "F_type": 1,
+            "F_video_id": 1253524232,
+            "F_video_uri": "http://ebag-qn.strongwind.cn/ebag/support/2341253321.mp4",
+            "F_video_name": "上课时的准备",
+            "F_video_time": 2345342351,
+            "F_video_size": 2325343
+        }, {
+            "F_item_id": 134515526242,
+            "F_type": 1,
+            "F_video_id": 1453526252,
+            "F_video_uri": "http://ebag-qn.strongwind.cn/ebag/support/2341253451.mp4",
+            "F_video_name": "上课前的准备",
+            "F_video_time": 2345343151,
+            "F_video_size": 2345343
+        },
+        {
+            "F_item_id": 124515536245,
+            "F_type": 1,
+            "F_video_id": 1253524232,
+            "F_video_uri": "http://ebag-qn.strongwind.cn/ebag/support/2341253321.mp4",
+            "F_video_name": "上课时的准备",
+            "F_video_time": 2345342351,
+            "F_video_size": 2325343
+        }, {
+            "F_item_id": 134515526242,
+            "F_type": 1,
+            "F_video_id": 1453526252,
+            "F_video_uri": "http://ebag-qn.strongwind.cn/ebag/support/2341253451.mp4",
+            "F_video_name": "上课前的准备",
+            "F_video_time": 2345343151,
+            "F_video_size": 2345343
+        },
+        {
+            "F_item_id": 124515536245,
+            "F_type": 1,
+            "F_video_id": 1253524232,
+            "F_video_uri": "http://ebag-qn.strongwind.cn/ebag/support/2341253321.mp4",
+            "F_video_name": "上课时的准备",
+            "F_video_time": 2345342351,
+            "F_video_size": 2325343
+        }, {
+            "F_item_id": 134515526242,
+            "F_type": 1,
+            "F_video_id": 1453526252,
+            "F_video_uri": "http://ebag-qn.strongwind.cn/ebag/support/2341253451.mp4",
+            "F_video_name": "上课前的准备",
+            "F_video_time": 2345343151,
+            "F_video_size": 2345343
+        },
+        {
+            "F_item_id": 124515536245,
+            "F_type": 1,
+            "F_video_id": 1253524232,
+            "F_video_uri": "http://ebag-qn.strongwind.cn/ebag/support/2341253321.mp4",
+            "F_video_name": "上课时的准备",
+            "F_video_time": 2345342351,
+            "F_video_size": 2325343
+        }, {
+            "F_item_id": 134515526242,
+            "F_type": 1,
+            "F_video_id": 1453526252,
+            "F_video_uri": "http://ebag-qn.strongwind.cn/ebag/support/2341253451.mp4",
+            "F_video_name": "上课前的准备",
+            "F_video_time": 2345343151,
+            "F_video_size": 2345343
+        },
+        {
+            "F_item_id": 124515536245,
+            "F_type": 1,
+            "F_video_id": 1253524232,
+            "F_video_uri": "http://ebag-qn.strongwind.cn/ebag/support/2341253321.mp4",
+            "F_video_name": "上课时的准备",
+            "F_video_time": 2345342351,
+            "F_video_size": 2325343
+        }, {
+            "F_item_id": 134515526242,
+            "F_type": 1,
+            "F_video_id": 1453526252,
+            "F_video_uri": "http://ebag-qn.strongwind.cn/ebag/support/2341253451.mp4",
+            "F_video_name": "上课前的准备",
+            "F_video_time": 2345343151,
+            "F_video_size": 2345343
+        },
+        {
+            "F_item_id": 124515536245,
+            "F_type": 1,
+            "F_video_id": 1253524232,
+            "F_video_uri": "http://ebag-qn.strongwind.cn/ebag/support/2341253321.mp4",
+            "F_video_name": "上课时的准备",
+            "F_video_time": 2345342351,
+            "F_video_size": 2325343
+        }, {
+            "F_item_id": 134515526242,
+            "F_type": 1,
+            "F_video_id": 1453526252,
+            "F_video_uri": "http://ebag-qn.strongwind.cn/ebag/support/2341253451.mp4",
+            "F_video_name": "上课前的准备",
+            "F_video_time": 2345343151,
+            "F_video_size": 2345343
+        },
+        {
+            "F_item_id": 124515536245,
+            "F_type": 1,
+            "F_video_id": 1253524232,
+            "F_video_uri": "http://ebag-qn.strongwind.cn/ebag/support/2341253321.mp4",
+            "F_video_name": "上课时的准备",
+            "F_video_time": 2345342351,
+            "F_video_size": 2325343
+        }
+    ]
+}

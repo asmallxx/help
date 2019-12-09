@@ -1,0 +1,47 @@
+{
+    "F_responseMsg": "成功",
+    "F_responseNo": 10000,
+    "F_data": [{
+            "F_item_id": 134515526242,
+            "F_type": 1,
+            "F_cover_uri": "https://contres.readboy.com/video_resource/msfdb/cover/ec/4f/74/ec4f74de0fa6f06a049437d2b3fc9862.jpg",
+            "F_title": "如何上课如何上课如何上课如何上课如何上课如何上课如何上课如何上课如何上课如何上课如何上课如何上课如何上课如何上课如何上课如何上课",
+            "F_introduction": "如何上课的教程本组视频为读书郎智慧课堂如何上课的教程本组视频为读书郎智慧课堂如何上课的教程本组视频为读书郎智慧课堂如何上课的教程本组视频为读书郎智慧课堂如何上课的教程,如何上课的教程本组视频为读书郎智慧课堂如何上课的教程本组视频为读书郎智慧课堂如何上课的教程本组视频为读书郎智慧课堂如何上课的教程本组视频为读书郎智慧课堂如何上课的教程如何上课的教程本组视频为读书郎智慧课堂如何上课的教程本组视频为读书郎智慧课堂如何上课的教程本组视频为读书郎智慧课堂如何上课的教程本组视频为读书郎智慧课堂如何上课的教程"
+        },
+        {
+            "F_item_id": 232423131513,
+            "F_type": 2,
+            "F_cover_uri": "http://ebag-qn.strongwind.cn/ebag/support/32581942233492.png",
+            "F_title": "如何使用",
+            "F_introduction": "本组视频为家长如何使用读书郎智慧课堂的教程"
+        },
+        {
+            "F_item_id": 232423131513,
+            "F_type": 2,
+            "F_cover_uri": "http://ebag-qn.strongwind.cn/ebag/support/32581942233492.png",
+            "F_title": "如何使用2",
+            "F_introduction": "本组视频为家长如何使用读书郎智慧课堂的教程"
+        },
+        {
+            "F_item_id": 232423131513,
+            "F_type": 2,
+            "F_cover_uri": "http://ebag-qn.strongwind.cn/ebag/support/32581942233492.png",
+            "F_title": "如何使用3",
+            "F_introduction": "本组视频为家长如何使用读书郎智慧课堂的教程"
+        },
+        {
+            "F_item_id": 232423131513,
+            "F_type": 2,
+            "F_cover_uri": "http://ebag-qn.strongwind.cn/ebag/support/32581942233492.png",
+            "F_title": "如何使用4",
+            "F_introduction": "本组视频为家长如何使用读书郎智慧课堂的教程"
+        },
+        {
+            "F_item_id": 232423131513,
+            "F_type": 2,
+            "F_cover_uri": "http://ebag-qn.strongwind.cn/ebag/support/32581942233492.png",
+            "F_title": "如何使用5",
+            "F_introduction": "本组视频为家长如何使用读书郎智慧课堂的教程"
+        }
+    ]
+}

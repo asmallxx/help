@@ -5,14 +5,17 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
-    count: 1
+    active: 1
   },
   mutations: {
-    addCount(state) {
-      state.count++
-    },
-    subtractCount(state) {
-      state.count--
+    // addCount(state) {
+    //   state.count++
+    // },
+    // subtractCount(state) {
+    //   state.count--
+    // }
+    changactive(state, payload) {
+      state.active = payload.active;
     }
   },
 

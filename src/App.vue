@@ -12,4 +12,7 @@ export default {
 };
 </script>
 <style lang="less">
+#app {
+  height: 100%;
+}
 </style>

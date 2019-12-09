@@ -1,0 +1,88 @@
+{
+    "F_responseMsg": "成功",
+    "F_responseNo": 10000,
+    "F_data": [{
+            "F_id": 1655526241,
+            "F_name": "网络常见问题1",
+            "F_content": "",
+            "F_parent_id": 0,
+            "F_catalog": 1,
+            "F_children": [{
+                "F_id": 23492492,
+                "F_name": "不能上网1.1",
+                "F_content": "不能上网的详细内容1",
+                "F_parent_id": 1655526241,
+                "F_catalog": 1,
+                "F_children": [{
+                    "F_id": 23492493,
+                    "F_name": "不能上网1.1.1",
+                    "F_content": "不能上网的详细内容2，不能上网的详细内容1.1.1",
+                    "F_parent_id": 1655526242,
+                    "F_catalog": 0
+                }, {
+                    "F_id": 23492494,
+                    "F_name": "不能上网1.1.2",
+                    "F_content": "不能上网的详细内容3，不能上网的详细内容1.1.2",
+                    "F_parent_id": 1655526242,
+                    "F_catalog": 0
+                }]
+            }, {
+                "F_id": 23492495,
+                "F_name": "不能上网1.2",
+                "F_content": "不能上网的详细内容6",
+                "F_parent_id": 1655526241,
+                "F_catalog": 1,
+                "F_children": [{
+                    "F_id": 23492496,
+                    "F_name": "不能上网1.2.1",
+                    "F_content": "不能上网的详细内容2，不能上网的详细内容1.2.1",
+                    "F_parent_id": 1655526242,
+                    "F_catalog": 0
+                }, {
+                    "F_id": 23492497,
+                    "F_name": "不能上网1.2.2",
+                    "F_content": "不能上网的详细内容3，不能上网的详细内容1.2.2",
+                    "F_parent_id": 1655526242,
+                    "F_catalog": 0
+                }]
+            }]
+        },
+        {
+            "F_id": 1655526248,
+            "F_name": "网络常见问题2",
+            "F_content": "",
+            "F_parent_id": 0,
+            "F_catalog": 1,
+            "F_children": [{
+                    "F_id": 234924291,
+                    "F_name": "不能上网2.1",
+                    "F_content": "不能上网的详细内容2.1",
+                    "F_parent_id": 1655526242,
+                    "F_catalog": 1,
+                    "F_children": [{
+                        "F_id": 2349243292,
+                        "F_name": "不能上网2.1",
+                        "F_content": "不能上网的详细内容2.1.1",
+                        "F_parent_id": 1655526242,
+                        "F_catalog": 0
+                    }, {
+                        "F_id": 2349243293,
+                        "F_name": "不能上网2.1",
+                        "F_content": "不能上网的详细内容2.1.2",
+                        "F_parent_id": 1655526242,
+                        "F_catalog": 0
+                    }]
+                },
+                {
+                    "F_id": 2349242394,
+                    "F_name": "没有子目录，不能上网2.2",
+                    "F_content": "不能上网的详细内容2.2",
+                    "F_parent_id": 1655526242,
+                    "F_catalog": 0,
+                    "F_children": []
+                }
+            ]
+        }
+    ]
+
+}
