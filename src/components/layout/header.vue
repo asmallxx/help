@@ -18,7 +18,7 @@ export default {};
 <style lang="less" scoped>
 .header {
   padding: 0 30px;
-  position: fixed;
+  //   position: fixed;
   top: 0;
   box-sizing: border-box;
   width: 100%;
