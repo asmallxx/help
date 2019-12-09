@@ -9,12 +9,13 @@ export default new Vuex.Store({
   },
   mutations: {
     addCount(state) {
-      state.count = state.count + 1
+      state.count++
     },
-    subtractCount(state, payload) {
-      state.count = state.count - 1
+    subtractCount(state) {
+      state.count--
     }
   },
+
   actions: {},
   modules: {}
 })

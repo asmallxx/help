@@ -8,13 +8,24 @@
 
 <script>
 import store from "@/store/index";
+import { mapState } from "vuex";
 // import question from "@/views/question";
 
 export default {
   data() {
     return {
-      count: store.state.count
+      //   count: this.$store.state.count
     };
+  },
+  computed: {
+    // ...mapState(["count", "age", "sex"])
+    // ...mapState({
+    //   count: "count",
+    //   age: "age",
+    //   sex: "sex"
+    // })
+
+    count: () => store.state.count
   },
   methods: {
     switchPage() {

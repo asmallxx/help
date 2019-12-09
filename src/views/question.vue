@@ -11,8 +11,11 @@ import store from "@/store/index";
 export default {
   data() {
     return {
-      count: store.state.count
+      //   count: store.state.count
     };
+  },
+  computed: {
+    count: () => store.state.count
   },
   methods: {
     backPage() {
